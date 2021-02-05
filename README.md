@@ -23,7 +23,9 @@ To setup and run the code, you need to download the repo, and compile and run us
 
 Ex:
 > cd Desktop         //go to directory
+
 > javac Main.java    //compile file
+
 > java Main          //run file
 
 And then you are set!
