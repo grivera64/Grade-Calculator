@@ -33,10 +33,10 @@ In then outputs the user's GPA in the console.
 To setup and run the code, you need to download the repo, and compile and run using a Java Compiler through the command line.
 
 Ex:
-> cd Desktop         //go to directory
+> cd Desktop                     //go to directory
 
-> javac Main.java    //compile file
+> javac GradeCalculator.java    //compile file
 
-> java Main          //run file
+> java GradeCalculator          //run file
 
 And then you are set!
