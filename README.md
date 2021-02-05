@@ -9,14 +9,19 @@ sample.txt
 ......................
 
 Full Name
+
 ID Number
+
 Course Name
+
 Grade Credits
 
 ...
 
 Course Name
+
 Grade Credits
+
 EOF
 
 ....................
