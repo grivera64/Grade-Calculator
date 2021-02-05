@@ -6,6 +6,7 @@ I used Java's java.util and java.io classes to build this project. The Grade Cal
 
 sample.txt
 ......................
+
 Full Name
 ID Number
 Course Name
@@ -14,7 +15,9 @@ Grade Credits
 Course Name
 Grade Credits
 EOF
+
 ....................
+
 
 In then outputs the user's GPA in the console.
 
