@@ -5,7 +5,7 @@ This is my class project about finding the weighted grade for my CSC121 class. T
 I used Java's java.util and java.io classes to build this project. The Grade Calculator asks for an input file directory from the user in the following format:
 
 sample.txt
---------------------
+......................
 Full Name
 ID Number
 Course Name
@@ -14,7 +14,7 @@ Grade Credits
 Course Name
 Grade Credits
 EOF
--------------------
+....................
 
 In then outputs the user's GPA in the console.
 
